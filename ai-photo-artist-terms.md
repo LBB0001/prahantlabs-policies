@@ -1,6 +1,6 @@
 ---
 title: Terms of Use — AI Photo Artist - Art Generator
-permalink: /ai-photo-artist/terms/
+permalink: /ai-photo-artist-terms/
 ---
 
 # Terms of Use — AI Photo Artist - Art Generator

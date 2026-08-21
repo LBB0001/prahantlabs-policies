@@ -10,8 +10,8 @@ Privacy policies and terms of use for PrahantLabs applications.
 ---
 
 ### 🎨 AI Photo Artist - Art Generator
-- [Privacy Policy](/prahantlabs-policies/ai-photo-artist/privacy-policy/)
-- [Terms of Use](/prahantlabs-policies/ai-photo-artist/terms/)
+- [Privacy Policy](/prahantlabs-policies/ai-photo-artist-privacy/)
+- [Terms of Use](/prahantlabs-policies/ai-photo-artist-terms/)
 
 ---
 

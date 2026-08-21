@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy — AI Photo Artist - Art Generator
-permalink: /ai-photo-artist/privacy-policy/
+permalink: /ai-photo-artist-privacy/
 ---
 
 # Privacy Policy — AI Photo Artist - Art Generator
