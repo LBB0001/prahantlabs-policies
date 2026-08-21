@@ -1,23 +1,25 @@
 ---
-title: PDF Reader
+title: PrahantLabs App Policies
 permalink: /
 ---
 
-# PDF Reader
+# PrahantLabs — App Policies & Terms
 
-An offline PDF toolkit for Android. Read, scan, merge, split, reorder,
-compress, protect, fill, sign, recognise and translate documents — all on your
-own phone.
+Privacy policies and terms of use for PrahantLabs applications.
 
-Every document is processed on the device. Nothing is uploaded.
+---
 
-## Policies
+### 🎨 AI Photo Artist - Art Generator
+- [Privacy Policy](/prahantlabs-policies/ai-photo-artist/privacy-policy/)
+- [Terms of Use](/prahantlabs-policies/ai-photo-artist/terms/)
 
+---
+
+### 📄 PDF Reader
 - [Privacy Policy](/prahantlabs-policies/privacy-policy/)
 - [Terms of Use](/prahantlabs-policies/terms/)
 
-Both are also built into the app, under Settings.
+---
 
 ## Contact
-
-**prahantlabs@gmail.com**
+For any policy inquiries or data removal requests: **prahantlabs@gmail.com**
