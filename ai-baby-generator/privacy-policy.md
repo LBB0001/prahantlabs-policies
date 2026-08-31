@@ -5,7 +5,7 @@ permalink: /ai-baby-generator/privacy-policy/
 
 # Privacy Policy — AI Baby Generator
 
-**Last updated 29 August 2026**
+**Last updated 31 August 2026**
 
 AI Baby Generator is made by PrahantLabs. The short version: the two photos you
 choose are sent away to be processed, because that is the only way the app can
@@ -79,9 +79,11 @@ it away and makes a new one.
 - **Camera** — only if you choose "Take a photo" instead of picking from your
   gallery. Asked for at that moment, and never at launch. Declining it costs
   you nothing: the gallery route does everything the camera route does.
-- **Notifications** — declared so the app can tell you when your free
-  creations come back. **Nothing requests it and no notification is sent in
-  this version.**
+- **Notifications** — for the weekend reminder, and nothing else. You are
+  asked for it only after your first creation has finished, never at launch,
+  and declining costs you nothing. The reminder is two messages a weekend,
+  Saturday and Sunday morning, and **Settings → Weekend reminders** turns it
+  off for good.
 - **Photo library write** — on Android 9 and older only, and only when you tap
   Save. Newer versions of Android need no permission for this.
 
@@ -97,6 +99,17 @@ happens to it and asks you to agree. Nothing is uploaded before that.
 
 That agreement can be withdrawn at any time in **Settings → Photo processing
 consent**.
+
+## Reminders
+
+If you leave them on, the app schedules its weekend reminders **on your phone**
+and nowhere else. There is no push service, no token, no server that knows you
+exist, and nothing about you leaves the device to make one appear. The app
+simply asks Android to show a message on Saturday and Sunday morning.
+
+It schedules about two months ahead and tops that up whenever you open the app.
+Stop opening it and the reminders run out on their own — an app that nags
+forever is worse than one you forgot about.
 
 ## Advertising
 
