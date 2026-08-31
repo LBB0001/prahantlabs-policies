@@ -1,4 +1,5 @@
 ---
+layout: policy
 title: Terms of Use — Quotely
 permalink: /quotely/terms/
 ---

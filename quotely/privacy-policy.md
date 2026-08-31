@@ -1,4 +1,5 @@
 ---
+layout: policy
 title: Privacy Policy — Quotely
 permalink: /quotely/privacy-policy/
 ---

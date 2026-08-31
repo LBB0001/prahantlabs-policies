@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }}</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --ink: #191924;
+    --muted: #6d6d80;
+    --bg: #ffffff;
+    --panel: #f7f7fb;
+    --rule: #e7e7f0;
+    --accent: #6b46c1;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --ink: #e9e9f2;
+      --muted: #9a9ab0;
+      --bg: #0f0f16;
+      --panel: #17171f;
+      --rule: #26262f;
+      --accent: #b79bf0;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 0 20px 72px;
+    background: var(--bg);
+    color: var(--ink);
+    font: 17px/1.7 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+          "Helvetica Neue", sans-serif;
+    -webkit-text-size-adjust: 100%;
+  }
+  .wrap { max-width: 680px; margin: 0 auto; }
+
+  /* The eyebrow replaces the repo name the default theme used to print. */
+  .eyebrow {
+    margin: 40px 0 26px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.13em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+
+  h1 {
+    margin: 0 0 6px;
+    font-size: 30px;
+    line-height: 1.25;
+    letter-spacing: -0.5px;
+    font-weight: 700;
+  }
+  h2 {
+    margin: 40px 0 12px;
+    font-size: 19px;
+    letter-spacing: -0.2px;
+    font-weight: 650;
+  }
+  p, li { margin: 0 0 14px; }
+  ul { padding-left: 22px; }
+  li { margin-bottom: 8px; }
+  strong { font-weight: 650; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  /* "Last updated ..." — the lone bolded line right under the title. */
+  h1 + p {
+    margin: 0 0 30px;
+    padding-bottom: 22px;
+    border-bottom: 1px solid var(--rule);
+    color: var(--muted);
+    font-size: 14px;
+  }
+  h1 + p strong { font-weight: 500; }
+
+  hr {
+    margin: 44px 0 22px;
+    border: 0;
+    border-top: 1px solid var(--rule);
+  }
+  hr + p {
+    color: var(--muted);
+    font-size: 15px;
+  }
+
+  @media (max-width: 520px) {
+    body { font-size: 16px; }
+    h1 { font-size: 25px; }
+    .eyebrow { margin-top: 30px; }
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="eyebrow">PrahantLabs</div>
+    {{ content }}
+  </div>
+</body>
+</html>
