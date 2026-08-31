@@ -9,15 +9,43 @@ permalink: /quotely/privacy-policy/
 **Last updated 31 August 2026**
 
 Quotely is developed by PrahantLabs. This policy explains what the app does
-with your information. The short version: it collects nothing.
+with your information. The short version: there is no account, nothing you
+write or save leaves your phone, and the app measures how it is used so we know
+what to improve.
 
 ## What We Collect
 
-**Nothing.** Quotely has no account, no sign-up and no login. It sends no data
-to us or to anyone else. We have no server that stores your information and no
-way to identify you.
+Quotely has no account, no sign-up and no login. We never ask for your name,
+email address or phone number, and we have no way to identify you personally.
 
-We do not use analytics, advertising, or tracking of any kind.
+The app uses two Google services:
+
+**Google Analytics for Firebase** — records which screens you open, which
+reading language is set, and which actions are used: saving a card, sharing
+one, changing its style, opening a poet's collection. This is how we learn
+which languages and which moods deserve more verses. It is read as counts
+across all readers, never as a profile of one.
+
+**Firebase Crashlytics** — if the app crashes, it reports the error and the
+screen it happened on, so the fault can be found and fixed.
+
+Both services also collect standard technical detail: a randomly generated
+installation identifier, device model, operating-system version, country, and
+app version. That identifier is not your Google account, and it is discarded
+when you uninstall the app or clear its data.
+
+We do **not** collect the text you read, the cards you save, or anything you
+type. We do not sell data, we do not use it for advertising, and Quotely shows
+no ads.
+
+Google processes this data on our behalf; its own handling is described at
+[policies.google.com/privacy](https://policies.google.com/privacy).
+
+## Turning Measurement Off
+
+There is no in-app switch for this today. Uninstalling Quotely stops all
+collection and discards the installation identifier. If you would like an
+in-app control, write to us — it is a fair thing to ask for.
 
 ## What Stays On Your Device
 
