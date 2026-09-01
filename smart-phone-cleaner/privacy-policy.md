@@ -1,21 +1,21 @@
 ---
 layout: policy
-title: Privacy Policy — NovaClean
-permalink: /novaclean/privacy-policy/
+title: Privacy Policy — Smart Phone Cleaner
+permalink: /smart-phone-cleaner/privacy-policy/
 ---
 
-# Privacy Policy — NovaClean: Phone Cleaner
+# Privacy Policy — Smart Phone Cleaner
 
 **Last updated 1 September 2026**
 
-NovaClean is developed by PrahantLabs. This policy explains what the app does
+Smart Phone Cleaner is developed by PrahantLabs. This policy explains what the app does
 with your information. The short version: there is no account, every scan runs
 on your phone, no file or file name ever leaves the device, and the app
 measures how it is used so we know what to improve.
 
 ## What The App Reads
 
-NovaClean looks at your storage to find files worth removing. All of that
+Smart Phone Cleaner looks at your storage to find files worth removing. All of that
 reading happens on the device. Nothing found by a scan is uploaded, copied off
 the phone, or shared with anyone.
 
@@ -37,7 +37,7 @@ Specifically, the app reads:
 
 ## What We Collect
 
-NovaClean has no account, no sign-up and no login. We never ask for your name,
+Smart Phone Cleaner has no account, no sign-up and no login. We never ask for your name,
 email address or phone number, and we have no way to identify you personally.
 
 The app uses these Google services:
@@ -106,13 +106,13 @@ notification settings. Ad personalisation can be limited by resetting or
 deleting your advertising ID in Android Settings.
 
 There is no in-app switch for analytics and crash reporting today.
-Uninstalling NovaClean stops all collection and discards the installation
+Uninstalling Smart Phone Cleaner stops all collection and discards the installation
 identifier. If you would like an in-app control, write to us — it is a fair
 thing to ask for.
 
 ## Children
 
-NovaClean is not directed at children under 13, and we do not knowingly collect
+Smart Phone Cleaner is not directed at children under 13, and we do not knowingly collect
 information from them. If you believe a child has provided us information,
 write to us and we will delete it.
 

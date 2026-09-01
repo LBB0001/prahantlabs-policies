@@ -21,9 +21,9 @@ listing. Everything added after them lives in a folder of its own.
 - [Privacy Policy](quotely/privacy-policy.md)
 - [Terms of Use](quotely/terms.md)
 
-## NovaClean: Phone Cleaner
+## Smart Phone Cleaner
 
-- [Privacy Policy](novaclean/privacy-policy.md)
-- [Terms of Use](novaclean/terms.md)
+- [Privacy Policy](smart-phone-cleaner/privacy-policy.md)
+- [Terms of Use](smart-phone-cleaner/terms.md)
 
 Contact: prahantlabs@gmail.com

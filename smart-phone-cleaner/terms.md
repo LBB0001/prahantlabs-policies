@@ -1,23 +1,23 @@
 ---
 layout: policy
-title: Terms of Use — NovaClean
-permalink: /novaclean/terms/
+title: Terms of Use — Smart Phone Cleaner
+permalink: /smart-phone-cleaner/terms/
 ---
 
-# Terms of Use — NovaClean: Phone Cleaner
+# Terms of Use — Smart Phone Cleaner
 
 **Last updated 1 September 2026**
 
-NovaClean is developed by PrahantLabs. By installing and using the app you
+Smart Phone Cleaner is developed by PrahantLabs. By installing and using the app you
 agree to these terms. If you disagree with them, please uninstall the app.
 
 ## Using The App
 
-NovaClean is free to use. There is no account. The app is supported by ads.
+Smart Phone Cleaner is free to use. There is no account. The app is supported by ads.
 
 ## Deleting Files — Read This Part
 
-NovaClean helps you find files that are usually safe to remove. **You choose
+Smart Phone Cleaner helps you find files that are usually safe to remove. **You choose
 what is deleted, and deletion is permanent.**
 
 - Nothing is removed unless you select it and confirm.
