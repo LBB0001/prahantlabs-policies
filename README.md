@@ -16,4 +16,14 @@ listing. Everything added after them lives in a folder of its own.
 - [Privacy Policy](ai-baby-generator/privacy-policy.md)
 - [Terms of Use](ai-baby-generator/terms.md)
 
+## Quotely
+
+- [Privacy Policy](quotely/privacy-policy.md)
+- [Terms of Use](quotely/terms.md)
+
+## NovaClean: Phone Cleaner
+
+- [Privacy Policy](novaclean/privacy-policy.md)
+- [Terms of Use](novaclean/terms.md)
+
 Contact: prahantlabs@gmail.com
