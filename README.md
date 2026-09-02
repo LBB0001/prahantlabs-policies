@@ -21,9 +21,9 @@ listing. Everything added after them lives in a folder of its own.
 - [Privacy Policy](quotely/privacy-policy.md)
 - [Terms of Use](quotely/terms.md)
 
-## Smart Phone Cleaner
+## AI Phone Cleaner
 
-- [Privacy Policy](smart-phone-cleaner/privacy-policy.md)
-- [Terms of Use](smart-phone-cleaner/terms.md)
+- [Privacy Policy](ai-phone-cleaner/privacy-policy.md)
+- [Terms of Use](ai-phone-cleaner/terms.md)
 
 Contact: prahantlabs@gmail.com
